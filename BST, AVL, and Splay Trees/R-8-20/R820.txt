@@ -1,0 +1,1 @@
+No it is not possible. Due to the routes of the traversals being different it will always be different unless their are duplicates in the tree which is not allowed.

@@ -1,0 +1,4 @@
+Overall:
+There are serveral different ways to Splay trees.
+Splaying trees is when you take a one of the sub nodes and make it the root of the tree.
+Due to the many different places the sub node could be in there are many different rotation combinations you need to do in order to make it the root node.
